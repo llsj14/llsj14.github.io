@@ -33,10 +33,28 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   I'm an software engineer at NAVER Corp.
   I'm interested in machine learning, workload characterization of emerging applications, and computer architectures.
-  
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
+  - title: Education
+    layout: list
+    content:
+      - layout: top-right
+        title: Yonsei University
+        sub_title: B.S. in School of Electrical and Electronic Engineering
+        caption: 2013.03 - 2019.02
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+      - layout: top-right
+        title: Yonsei University
+        sub_title: B.S. in School of Electrical and Electronic Engineering
+        caption: 2013.03 - 2019.02
+        quote: >
+          Short institution or course description (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description of qualification
+
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -67,17 +85,7 @@ content:
           Short description of the company (optional)
         description: | # this will include new lines to allow paragraphs
           Description of role
-  - title: Education
-    layout: list
-    content:
-      - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
-        quote: >
-          Short institution or course description (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
+
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
