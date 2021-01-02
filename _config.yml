@@ -36,6 +36,15 @@ about_content: | # this will include new lines to allow paragraphs
   I'm interested in machine learning, workload characterization, and computer architectures.
 
 content:
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: NAVER Corp.
+        sub_title: Software Engineer
+        caption: 2020.12 - present
+        link: www.navercorp.com
+
   - title: Education
     layout: list
     content:
@@ -50,35 +59,15 @@ content:
         title: Yonsei University
         sub_title: B.S. in School of Electrical and Electronic Engineering
         caption: 2013.03 - 2019.02
-
-  
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: NAVER Corp.
-        sub_title: Software Engineer
-        caption: 2020.12 - present
-        link: www.navercorp.com
         
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        quote: >
-          Short overview of the project (optional)
+        title: Nebula
+        link: https://github.com/yonsei-icsl/nebula
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          Lightweight Neural Network Benchmarks
 
   - title: Publications
     layout: text
@@ -88,12 +77,11 @@ content:
       B. Kim, **S. Lee**, C. Park, H. Kim, and W. Song, "The Nebula Benchmark Suite: Implications of Lightweight Neural Networks," IEEE Transactions on Computers, Oct. 2020.
       B. Kim, **S. Lee**, and W. Song, "Nebula: Lightweight Neural Network Benchmarks," Workshop on Modeling and Simulation of Systems and Applications, Aug. 2020.
   
-  - title: A Little More About Me
+  - title: Scholarships and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
-
-      Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
+      Honors Student Award (Yonsei University, Mar. 2013 / Sep. 2017)
+      4th Place Award (Korea Transportation Safety Authority (TS) & Korea Auto-Vehicle Safety Association (KASA), Autonomous Car Racing in 2017 International Student Car Competition)
 
 # Footer
 footer_show_references: true
