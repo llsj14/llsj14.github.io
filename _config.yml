@@ -40,9 +40,10 @@ content:
     content:
       - layout: left
         title: NAVER Corp.
+        subtitle: Software Engineer
         caption: 2020.12 - present
         link: www.navercorp.com
-        description: > Software Engineer
+
   - title: Education
     layout: list
     content:
@@ -60,7 +61,7 @@ content:
       - layout: left
         title: Nebula
         link: https://github.com/yonsei-icsl/nebula
-        description: > Lightweight Neural Network Benchmarks
+        description: >      Lightweight Neural Network Benchmarks
   - title: Publications
     layout: text
     content: |
