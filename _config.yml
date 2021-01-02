@@ -53,7 +53,7 @@ content:
         caption: 2019.03 - 2021.02
         description: >
           Advisor : William J. Song 
-          
+        description: >
           Lab : Intelligent Computing System Lab (ICSL)
       - layout: top-left
         title: Yonsei University
@@ -83,7 +83,8 @@ content:
   - title: Scholarships and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Honors Student Award (Yonsei University, Mar. 2013 / Sep. 2017) |
+      Honors Student Award (Yonsei University, Mar. 2013 / Sep. 2017)
+      
       4th Place Award (Korea Auto-Vehicle Safety Association (KASA), Autonomous Car Racing in 2017 International Student Car Competition)
 
 # Footer
