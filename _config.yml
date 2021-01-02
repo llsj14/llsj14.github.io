@@ -33,7 +33,7 @@ linkedin_username: llsj14
 about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   I'm an software engineer at NAVER Corp.
-  I'm interested in machine learning, workload characterization of emerging applications, and computer architectures.
+  I'm interested in machine learning, workload characterization, and computer architectures.
 
 content:
   - title: Education
@@ -41,16 +41,26 @@ content:
     content:
       - layout: top-right
         title: Yonsei University
-        sub_title: B.S. in School of Electrical and Electronic Engineering
-        caption: 2013.03 - 2019.02
-      - layout: top-right
-        title: Yonsei University
         sub_title: M.S. in School of Electrical and Electronic Engineering
         caption: 2019.03 - 2021.02
         quote: >
           Advisor : William J. Song
           Lab : Intelligent Computing System Lab (ICSL)
+      - layout: top-right
+        title: Yonsei University
+        sub_title: B.S. in School of Electrical and Electronic Engineering
+        caption: 2013.03 - 2019.02
 
+  
+  - title: Experience
+    layout: list
+    content:
+      - layout: right
+        title: NAVER Corp.
+        sub_title: Software Engineer
+        caption: 2020.12 - present
+        link: www.navercorp.com
+        
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -69,19 +79,15 @@ content:
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
-  - title: Experience
-    layout: list
-    content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
-        quote: >
-          Short description of the company (optional)
-        description: | # this will include new lines to allow paragraphs
-          Description of role
 
+  - title: Publications
+    layout: text
+    content: |
+      **S. Lee**, "Exploiting Large and Small Page Sizes in Two-Tiered Memory System.," Master's Thesis, Dec. 2020.
+      B. Kim, **S. Lee**, A. Trivedi, and W. Song, "Energy-Efficient Acceleration of Deep Neural Networks on Realtime-Constrained Embedded Edge Devices," IEEE Access, vol. 8, Nov. 2020, pp. 216259-216270.
+      B. Kim, **S. Lee**, C. Park, H. Kim, and W. Song, "The Nebula Benchmark Suite: Implications of Lightweight Neural Networks," IEEE Transactions on Computers, Oct. 2020.
+      B. Kim, **S. Lee**, and W. Song, "Nebula: Lightweight Neural Network Benchmarks," Workshop on Modeling and Simulation of Systems and Applications, Aug. 2020.
+  
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
