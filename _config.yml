@@ -9,6 +9,7 @@ version: 2
 name: Sungjae Lee
 title: Software Engineer at NAVER Corp
 email: sungjae.lee_94@navercopr.com
+       sungjae.lee@yonsei.ac.kr
 # email_title: Email (Email title override)
 website: llsj14.github.io
 # website_title: Web (Website title override)
@@ -48,10 +49,12 @@ content:
           Description of qualification
       - layout: top-right
         title: Yonsei University
-        sub_title: B.S. in School of Electrical and Electronic Engineering
-        caption: 2013.03 - 2019.02
+        sub_title: M.S. in School of Electrical and Electronic Engineering
+        caption: 2019.03 - 2021.02
         quote: >
-          Short institution or course description (optional)
+          Advisor : William J. Song
+          Lab : Intelligent Computing System Lab (ICSL)
+          link : icsl.yonsei.ac.kr/
         description: | # this will include new lines to allow paragraphs
           Description of qualification
 
