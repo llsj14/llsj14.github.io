@@ -43,7 +43,6 @@ content:
         sub_title: Software Engineer
         caption: 2020.12 - present
         link: www.navercorp.com
-
   - title: Education
     layout: list
     content:
@@ -52,12 +51,11 @@ content:
         sub_title: M.S. in School of Electrical and Electronic Engineering
         caption: 2019.03 - 2021.02
         description: >
-          Intelligent Computing System Lab (ICSL)
+          Intelligent Computing Systems Lab (ICSL)
       - layout: top-left
         title: Yonsei University
         sub_title: B.S. in School of Electrical and Electronic Engineering
-        caption: 2013.03 - 2019.02
-        
+        caption: 2013.03 - 2019.02      
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
@@ -66,7 +64,6 @@ content:
         link: https://github.com/yonsei-icsl/nebula
         description: > # this will include new lines to allow paragraphs
           Lightweight Neural Network Benchmarks
-
   - title: Publications
     layout: text
     content: |
@@ -77,7 +74,6 @@ content:
       B. Kim, **S. Lee**, C. Park, H. Kim, and W. Song, "The Nebula Benchmark Suite: Implications of Lightweight Neural Networks," IEEE Transactions on Computers, Oct. 2020.
       
       B. Kim, **S. Lee**, and W. Song, "Nebula: Lightweight Neural Network Benchmarks," Workshop on Modeling and Simulation of Systems and Applications, Aug. 2020.
-  
   - title: Scholarships and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
