@@ -43,10 +43,6 @@ content:
         title: Yonsei University
         sub_title: B.S. in School of Electrical and Electronic Engineering
         caption: 2013.03 - 2019.02
-        quote: >
-          GPA : 3.76/4.3
-        description: | # this will include new lines to allow paragraphs
-          Description of qualification
       - layout: top-right
         title: Yonsei University
         sub_title: M.S. in School of Electrical and Electronic Engineering
@@ -54,7 +50,6 @@ content:
         quote: >
           Advisor : William J. Song
           Lab : Intelligent Computing System Lab (ICSL)
-          GPA : 4.15/4.3
 
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
