@@ -40,7 +40,7 @@ content:
     content:
       - layout: left
         title: NAVER Corp.
-        subtitle: Software Engineer
+        sub_title: Software Engineer
         caption: 2020.12 - present
         link: www.navercorp.com
 
@@ -60,12 +60,12 @@ content:
     content:
       - layout: left
         title: Nebula
-        link: https://github.com/yonsei-icsl/nebula
-        description: >      Lightweight Neural Network Benchmarks
+        sub_title: Lightweight Neural Network Benchmarks
+        link: https://github.com/yonsei-icsl/nebula   
   - title: Publications
     layout: text
     content: |
-      **S. Lee**, "Exploiting Large and Small Page Sizes in Two-Tiered Memory System.," Master's Thesis, School of Electrical and Electronic Engineering, Yonsei University, Dec. 2020.
+      **S. Lee**, "Exploiting Large and Small Page Sizes in Two-Tiered Memory System," Master's Thesis, School of Electrical and Electronic Engineering, Yonsei University, Dec. 2020.
       
       B. Kim, **S. Lee**, A. Trivedi, and W. Song, "Energy-Efficient Acceleration of Deep Neural Networks on Realtime-Constrained Embedded Edge Devices," IEEE Access, Nov. 2020.
       
@@ -75,9 +75,9 @@ content:
   - title: Scholarships and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
-      Honors Student Award (Yonsei University, Mar. 2013 / Sep. 2017)
-      
       4th Place Award (Korea Auto-Vehicle Safety Association (KASA), Autonomous Car Racing in 2017 International Student Car Competition)
+      
+      Honors Student Award (Yonsei University, Mar. 2013 / Sep. 2017)
 
 # Footer
 footer_show_references: true
