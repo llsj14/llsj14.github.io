@@ -52,9 +52,7 @@ content:
         sub_title: M.S. in School of Electrical and Electronic Engineering
         caption: 2019.03 - 2021.02
         description: >
-          Advisor : William J. Song 
-        description: >
-          Lab : Intelligent Computing System Lab (ICSL)
+          Intelligent Computing System Lab (ICSL)
       - layout: top-left
         title: Yonsei University
         sub_title: B.S. in School of Electrical and Electronic Engineering
@@ -66,7 +64,7 @@ content:
       - layout: left
         title: Nebula
         link: https://github.com/yonsei-icsl/nebula
-        description: | # this will include new lines to allow paragraphs
+        description: > # this will include new lines to allow paragraphs
           Lightweight Neural Network Benchmarks
 
   - title: Publications
