@@ -20,7 +20,7 @@ darkmode: false
 # Social links
 github_username:  llsj14
 stackoverflow_username: 9215366
-linkedin_username: llsj14
+linkedin_username: sungjae-lee-9413b0180
 
 # Google Analytics and Tag Manager
 # Using more than one of these may cause issues with reporting
@@ -81,7 +81,7 @@ content:
     layout: text
     content: | # this will include new lines to allow paragraphs
       Honors Student Award (Yonsei University, Mar. 2013 / Sep. 2017)
-      4th Place Award (Korea Transportation Safety Authority (TS) & Korea Auto-Vehicle Safety Association (KASA), Autonomous Car Racing in 2017 International Student Car Competition)
+      4th Place Award (Korea Auto-Vehicle Safety Association (KASA), Autonomous Car Racing in 2017 International Student Car Competition)
 
 # Footer
 footer_show_references: true
