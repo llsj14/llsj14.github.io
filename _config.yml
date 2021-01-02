@@ -72,7 +72,7 @@ content:
   - title: Publications
     layout: text
     content: |
-      **S. Lee**, "Exploiting Large and Small Page Sizes in Two-Tiered Memory System.," Master's Thesis, Dec. 2020.
+      **S. Lee**, "Exploiting Large and Small Page Sizes in Two-Tiered Memory System.," Master's Thesis, School of Electrical and Electronic Engineering, Yonsei University, Dec. 2020.
       
       B. Kim, **S. Lee**, A. Trivedi, and W. Song, "Energy-Efficient Acceleration of Deep Neural Networks on Realtime-Constrained Embedded Edge Devices," IEEE Access, Nov. 2020.
       
