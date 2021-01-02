@@ -40,29 +40,29 @@ content:
     content:
       - layout: left
         title: NAVER Corp.
-        sub_title: Software Engineer
         caption: 2020.12 - present
         link: www.navercorp.com
+        description: Software Engineer
   - title: Education
     layout: list
     content:
-      - layout: top-left
+      - layout: left
         title: Yonsei University
-        sub_title: M.S. in School of Electrical and Electronic Engineering
         caption: 2019.03 - 2021.02
-        description: >
+        description:
+          M.S. in School of Electrical and Electronic Engineering
           Intelligent Computing Systems Lab (ICSL)
-      - layout: top-left
+      - layout: left
         title: Yonsei University
-        sub_title: B.S. in School of Electrical and Electronic Engineering
-        caption: 2013.03 - 2019.02      
+        caption: 2013.03 - 2019.02
+        description: B.S. in School of Electrical and Electronic Engineering
   - title: Projects # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         title: Nebula
         link: https://github.com/yonsei-icsl/nebula
-        description: > # this will include new lines to allow paragraphs
+        description:
           Lightweight Neural Network Benchmarks
   - title: Publications
     layout: text
