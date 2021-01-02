@@ -42,15 +42,14 @@ content:
         title: NAVER Corp.
         caption: 2020.12 - present
         link: www.navercorp.com
-        description: Software Engineer
+        description: > Software Engineer
   - title: Education
     layout: list
     content:
       - layout: left
         title: Yonsei University
         caption: 2019.03 - 2021.02
-        description:
-          M.S. in School of Electrical and Electronic Engineering
+        description: M.S. in School of Electrical and Electronic Engineering
       - layout: left
         title: Yonsei University
         caption: 2013.03 - 2019.02
@@ -61,8 +60,7 @@ content:
       - layout: left
         title: Nebula
         link: https://github.com/yonsei-icsl/nebula
-        description:
-          Lightweight Neural Network Benchmarks
+        description: > Lightweight Neural Network Benchmarks
   - title: Publications
     layout: text
     content: |
