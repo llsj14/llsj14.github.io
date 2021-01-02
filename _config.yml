@@ -29,7 +29,7 @@ linkedin_username: sungjae-lee-9413b0180
 
 # About Section
 # about_title: About Me (Use this to override about section title)
-about_profile_image: Directory of profile image (eg. images/profile.jpg)
+about_profile_image: images/leesungjae.jpg
 about_content: | # this will include new lines to allow paragraphs
   I'm a software engineer at NAVER Corp.
   I'm interested in machine learning, workload characterization, and computer architectures.
