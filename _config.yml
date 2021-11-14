@@ -34,9 +34,9 @@ about_content: | # this will include new lines to allow paragraphs
   I'm a software engineer at NAVER Corp.
   I'm interested in machine learning, backend engineering.
   
-  - Programming Languages : C/C++, CUDA C/C++, Python
-  - Simulation Tools : gem5, MARSSx86, DRAMsim3
-  - Backend Development : Kubernetes, Linux
+  Programming Languages : C/C++, CUDA C/C++, Python
+  Simulation Tools : gem5, MARSSx86, DRAMsim3
+  Backend Development : Kubernetes, Linux
 
 content:
   - title: Experience
