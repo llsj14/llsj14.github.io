@@ -62,9 +62,17 @@ content:
         title: Nebula
         sub_title: Lightweight Neural Network Benchmarks
         link: https://github.com/yonsei-icsl/nebula   
+  - title: Presentations
+    layout: list
+    content:
+      - layout: left
+        title: Hyper scale AI, ‘HyperCLOVA’ serving / Minsub Kim and Sungjae Lee
+        link: https://deview.kr/2021/sessions/416
   - title: Publications
     layout: text
     content: |
+      B. Kim, H. Kim, S. Lee, G. Lee, D. Kwak, D. H. Jeon, S. Park, S. Kim, S. Kim, D. Seo, H. Lee, M. Jeong, **S. Lee**, M. Kim, S. H. Ko, S. Kim, T. Park, J. Kim, S. Kang, N. Ryu, K. M. Yoo, M. Chang, S. Suh, S. In, J. Park, K. Kim, H. Kim, J. Jeong, Y. G. Yeo, D. Ham, D. Park, M. Y. Lee, J. Kang, I. Kang, J. Ha, W. Park, N. Sung, "What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers", Conference on Empirical Methods in Natural Language Processing, Nov. 2021.
+      
       **S. Lee**, "Exploiting Large and Small Page Sizes in Two-Tiered Memory System," Master's Thesis, School of Electrical and Electronic Engineering, Yonsei University, Dec. 2020.
       
       B. Kim, **S. Lee**, A. Trivedi, and W. Song, "Energy-Efficient Acceleration of Deep Neural Networks on Realtime-Constrained Embedded Edge Devices," IEEE Access, Nov. 2020.
@@ -72,9 +80,15 @@ content:
       B. Kim, **S. Lee**, C. Park, H. Kim, and W. Song, "The Nebula Benchmark Suite: Implications of Lightweight Neural Networks," IEEE Transactions on Computers, Oct. 2020.
       
       B. Kim, **S. Lee**, and W. Song, "Nebula: Lightweight Neural Network Benchmarks," Workshop on Modeling and Simulation of Systems and Applications, Aug. 2020.
+  - title: Patents
+    layout: text
+    content: |
+      W. Song, B. Kim, and **S. Lee**, “Operation Device of Artificial Neural Network, Operation Method of Artificial Neural Network and Computer Program Stored in A Recording Medium to Execute The Method,” 10-2021-0071874, June 2021.
   - title: Scholarships and Awards
     layout: text
     content: | # this will include new lines to allow paragraphs
+      Scholarship for combined BS/MS program (Yonsei University, Full tuition for master course, Mar. 2019 - June 2020)
+    
       4th Place Award (Korea Auto-Vehicle Safety Association (KASA), Autonomous Car Racing in 2017 International Student Car Competition)
       
       Honors Student Award (Yonsei University, Mar. 2013 / Sep. 2017)
