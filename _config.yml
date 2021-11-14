@@ -63,11 +63,9 @@ content:
         sub_title: Lightweight Neural Network Benchmarks
         link: https://github.com/yonsei-icsl/nebula   
   - title: Presentations
-    layout: list
+    layout: text
     content:
-      - layout: left
-        title: Hyper scale AI, ‘HyperCLOVA’ serving / Minsub Kim and Sungjae Lee
-        link: https://deview.kr/2021/sessions/416
+        Hyper scale AI, ‘HyperCLOVA’ serving (DEVIEW 2021)
   - title: Publications
     layout: text
     content: |
