@@ -72,8 +72,6 @@ content:
     layout: text
     content:
         Hyper scale AI, ‘HyperCLOVA’ serving (DEVIEW 2021)
-        HyperCLOVA Serving Framework Selection
-        link: https://engineering.clova.ai/en/posts/2022/01/hyperclova-part-1
   - title: Publications
     layout: text
     content: |
