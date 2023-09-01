@@ -70,6 +70,14 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: HyperCLOVA, HyperCLOVA X
+        sub_title: LLM from NAVER specialized in Korean language
+        link: https://clova.ai/hyperclova
+      - layout: left
+        title: NSML
+        sub_title: ML Training Platform on Kubernetes
+        link: https://www.ncloud.com/product/aiService/clovaNsml
+      - layout: left
         title: Nebula
         sub_title: Lightweight Neural Network Benchmarks
         link: https://github.com/yonsei-icsl/nebula   
