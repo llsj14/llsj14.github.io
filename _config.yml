@@ -88,6 +88,8 @@ content:
   - title: Publications
     layout: text
     content: |
+      G. Park, B. Park, M. Kim, **S. Lee**, J. Kim, B. Kwon, S. Kwon, B. Kim, Y. Lee, and D. Lee, "LUT-GEMM: Quantized matrix multiplication based on LUTs for efficient inference in large-scale generative language models," International Conference on Learning Representations (ICLR), May 2024.
+
       S. Hong, S. Moon, J. Kim, **S. Lee**, M. Kim, D. Lee, and J. Kim, "DFX: A Low-latency Multi-FPGA Appliance for Accelerating Transformer-based Text Generation," IEEE/ACM International Symposium on Microarchitecture (MICRO), Oct. 2022.
 
       B. Kim, H. Kim, S. Lee, G. Lee, D. Kwak, D. H. Jeon, S. Park, S. Kim, S. Kim, D. Seo, H. Lee, M. Jeong, **S. Lee**, M. Kim, S. H. Ko, S. Kim, T. Park, J. Kim, S. Kang, N. Ryu, K. M. Yoo, M. Chang, S. Suh, S. In, J. Park, K. Kim, H. Kim, J. Jeong, Y. G. Yeo, D. Ham, D. Park, M. Y. Lee, J. Kang, I. Kang, J. Ha, W. Park, N. Sung, "What Changes Can Large-scale Language Models Bring? Intensive Study on HyperCLOVA: Billions-scale Korean Generative Pretrained Transformers", Conference on Empirical Methods in Natural Language Processing (EMNLP), Nov. 2021.
