@@ -12,6 +12,7 @@ email: sungjae.lee@yonsei.ac.kr
 # email_title: Email (Email title override)
 website: llsj14.github.io
 # website_title: Web (Website title override)
+googlescholar_username: i_BBE-oAAAAJ
 
 # Dark Mode (true/false/never)
 darkmode: false
@@ -101,8 +102,6 @@ content:
       B. Kim, **S. Lee**, A. Trivedi, and W. Song, "Energy-Efficient Acceleration of Deep Neural Networks on Realtime-Constrained Embedded Edge Devices," IEEE Access, Nov. 2020.
       
       B. Kim, **S. Lee**, C. Park, H. Kim, and W. Song, "The Nebula Benchmark Suite: Implications of Lightweight Neural Networks," IEEE Transactions on Computers, Oct. 2020.
-      
-      B. Kim, **S. Lee**, and W. Song, "Nebula: Lightweight Neural Network Benchmarks," Workshop on Modeling and Simulation of Systems and Applications, Aug. 2020.
   - title: Patents
     layout: text
     content: |
