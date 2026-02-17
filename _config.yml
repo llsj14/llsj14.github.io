@@ -91,8 +91,8 @@ content:
         link: https://github.com/yonsei-icsl/nebula   
   - title: Presentations
     layout: text
-    content:
-        "Hyperscale AI, HyperCLOVA Serving," DEVIEW 2021.
+    content: |
+      Hyperscale AI, HyperCLOVA Serving, DEVIEW 2021.
   - title: Publications
     layout: text
     content: |
