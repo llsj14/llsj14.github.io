@@ -33,6 +33,7 @@ linkedin_username: sungjae-lee-9413b0180
 about_profile_image: images/leesungjae.jpg
 about_content: | # this will include new lines to allow paragraphs
   I am a software engineer at NAVER Cloud, working on large-scale LLM serving systems and AI infrastructure.
+
   My interests lie in efficient LLM inference and distributed systems for large-scale AI services.
   
   Programming Languages : C/C++, CUDA, Python
