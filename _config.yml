@@ -41,6 +41,8 @@ about_content: | # this will include new lines to allow paragraphs
   
   Backend Development : Kubernetes, Linux
 
+  Open Source Contributions: FasterTransformer v5.0, vLLM, llmperf
+
 content:
   - title: Experience
     layout: list
@@ -71,6 +73,10 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
+        title: OmniServe
+        sub_title: Scalable Multimodal LLM Serving System
+        link: https://github.com/NAVER-Cloud-HyperCLOVA-X/OmniServe
+      - layout: left
         title: HyperCLOVA, HyperCLOVA X
         sub_title: LLM from NAVER specialized in Korean language
         link: https://clova.ai/hyperclova
@@ -89,6 +95,8 @@ content:
   - title: Publications
     layout: text
     content: |
+      S. Woo, J. Kil, H. Kim, M. Kim, J. Kim, A. Seo, **S. Lee**, M. Jo, J. Ryu, B. Park, S. J. Kwon, and D. Lee, "ICaRus: Identical Cache Reuse for Efficient Multi-Model Inference," International Conference on Learning Representations (ICLR), Apr. 2026.
+    
       G. Park, B. Park, M. Kim, **S. Lee**, J. Kim, B. Kwon, S. Kwon, B. Kim, Y. Lee, and D. Lee, "LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models," International Conference on Learning Representations (ICLR), May 2024.
 
       H. Park, A. Cho, H. Jeon, H. Lee, Y. Yang, **S. Lee**, H. Lee, J. Choo, "HPC<sup>2</sup>lusterScape: Increasing Transparency and Efficiency of Shared High-Performance Computing Clusters for Large-scale AI Models," IEEE Visualization in Data Science (VDS), Oct. 2023.
