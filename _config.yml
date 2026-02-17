@@ -32,14 +32,14 @@ linkedin_username: sungjae-lee-9413b0180
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/leesungjae.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I'm a software engineer at NAVER Cloud.
-  I'm interested in machine learning and backend engineering.
+  I am a software engineer at NAVER Cloud, working on large-scale LLM serving systems and AI infrastructure.
+  My interests lie in efficient LLM inference and distributed systems for large-scale AI services.
   
-  Programming Languages : C/C++, CUDA C/C++, Python
+  Programming Languages : C/C++, CUDA, Python
   
   Simulation Tools : gem5, MARSSx86, DRAMsim3
   
-  Backend Development : Kubernetes, Linux
+  Backend Development : Kubernetes
 
   Open Source Contributions: FasterTransformer v5.0, vLLM, llmperf
 
@@ -78,7 +78,7 @@ content:
         link: https://github.com/NAVER-Cloud-HyperCLOVA-X/OmniServe
       - layout: left
         title: HyperCLOVA, HyperCLOVA X
-        sub_title: LLM from NAVER specialized in Korean language
+        sub_title: Large Language Model from NAVER Specialized in Korean
         link: https://clova.ai/hyperclova
       - layout: left
         title: NSML
@@ -91,7 +91,7 @@ content:
   - title: Presentations
     layout: text
     content:
-        Hyperscale AI, ‘HyperCLOVA’ serving (DEVIEW 2021)
+        "Hyperscale AI, HyperCLOVA Serving," DEVIEW 2021.
   - title: Publications
     layout: text
     content: |
