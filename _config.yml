@@ -96,6 +96,8 @@ content:
   - title: Publications
     layout: text
     content: |
+      K. Yoon, M. Kim, **S. Lee**, J. Lee, S. Woo, Y. In, S. J. Kwon, C. Park, D. Lee, "SelfJudge: Faster Speculative Decoding via Self-Supervised Judge Verification," International Conference on Machine Learning (ICML), July 2026.
+    
       S. Woo, J. Kil, H. Kim, M. Kim, J. Kim, A. Seo, **S. Lee**, M. Jo, J. Ryu, B. Park, S. J. Kwon, and D. Lee, "ICaRus: Identical Cache Reuse for Efficient Multi-Model Inference," International Conference on Learning Representations (ICLR), Apr. 2026.
     
       G. Park, B. Park, M. Kim, **S. Lee**, J. Kim, B. Kwon, S. Kwon, B. Kim, Y. Lee, and D. Lee, "LUT-GEMM: Quantized Matrix Multiplication based on LUTs for Efficient Inference in Large-Scale Generative Language Models," International Conference on Learning Representations (ICLR), May 2024.
